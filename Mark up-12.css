@@ -1,0 +1,103 @@
+main{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	background:url(img/logo-33.jpg);
+	color: #fff;
+	line-height: 1.5;
+}
+
+ul li{
+	list-style-type: none;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+}
+
+li{
+ 	 display: inline;
+ 	 padding: 4px;
+ 	
+ }
+
+ ul{
+ 	 padding-top: 90px;
+ 	 float: right;
+ 	 font-size: 16px;
+ 	 
+ }
+
+ li>a {
+	padding: 4px;
+}
+
+ li>a:hover {
+     border-bottom-color:1px #1abc9c;
+     color: #fff;
+     /*border-radius: 4px;*/
+ }
+
+ li .active{
+     border-bottom-color:1px #1abc9c;
+     color: #fff;
+ }
+
+ :hover {
+
+border-bottom-color:1px #1abc9c;
+ }   
+
+.navbar button{
+	color: #fff;
+}
+
+.navbar img{
+	padding-top: 80px;	
+}
+
+.lap{
+	text-align: left;
+	padding-top: 180px;
+}
+
+.lap h2{
+	color: #fff;
+}
+
+.lap p{
+	color: #b8bcc0;
+}
+
+.map {
+	color: #34495e;
+	text-align: left;
+	padding-top: 5px;
+	padding-top: 90px;
+}
+
+.blocks{
+	padding-top: 200px;
+	color: #34495e;
+	line-height: 1.5;
+}
+
+.info{
+	padding-top: 250px;
+}
+
+.clearfix{
+	clear: both;
+}
+
+footer{
+	padding-top: 200px;
+
+}
+
+
+
+
+
+
